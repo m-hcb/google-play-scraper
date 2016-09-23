@@ -13,6 +13,16 @@ Add `raulr/google-play-scraper` as a require dependency in your `composer.json` 
 ```sh
 $ composer require raulr/google-play-scraper
 ```
+Then run this inside your project directory
+
+```sh
+$ composer update
+```
+Dependencies
+------------
+
+ - PHP CURL should be enabled
+ - PHP version >= 5.5
 
 Usage
 -----
